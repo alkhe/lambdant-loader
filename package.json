@@ -1,6 +1,6 @@
 {
   "name": "lambdant-loader",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Webpack loader for Lambdant.",
   "main": "index.js",
   "scripts": {
