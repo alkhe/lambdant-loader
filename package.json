@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/edge/lambdant-loader#readme",
   "dependencies": {
-    "lambdant": "^0.5.0"
+    "lambdant": "^0.5.1"
   }
 }
