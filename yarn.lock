@@ -41,9 +41,9 @@ fast-levenshtein@~2.0.4:
   version "2.0.5"
   resolved "https://registry.yarnpkg.com/fast-levenshtein/-/fast-levenshtein-2.0.5.tgz#bd33145744519ab1c36c3ee9f31f08e9079b67f2"
 
-lambdant@^0.5.0:
-  version "0.5.0"
-  resolved "https://registry.yarnpkg.com/lambdant/-/lambdant-0.5.0.tgz#ff23336a984a5dd8473bccfd102d721033d6c895"
+lambdant@^0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/lambdant/-/lambdant-0.6.0.tgz#550ae4c4d50f3774a2ea36d364e648f99fbb36a4"
   dependencies:
     colors "^1.1.2"
     escodegen "^1.8.1"
